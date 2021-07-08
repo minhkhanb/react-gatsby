@@ -1,0 +1,10 @@
+public
+static
+.cache
+content
+/.storybook
+gatsby-node.ts
+gatsby-config.ts
+gatsby-browser.ts
+gatsby-ssr.ts
+/src/fromBackend
