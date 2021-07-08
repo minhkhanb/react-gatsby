@@ -5,6 +5,6 @@ content
 /.storybook
 gatsby-node.ts
 gatsby-config.ts
-gatsby-browser.ts
-gatsby-ssr.ts
+gatsby-browser.js
+gatsby-ssr.js
 /src/fromBackend
